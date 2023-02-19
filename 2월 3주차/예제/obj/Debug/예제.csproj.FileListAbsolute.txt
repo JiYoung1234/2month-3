@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\2month-3\2월 3주차\예제\bin\Debug\예제.exe.config
+C:\Users\admin\Desktop\2month-3\2월 3주차\예제\bin\Debug\예제.exe
+C:\Users\admin\Desktop\2month-3\2월 3주차\예제\bin\Debug\예제.pdb
+C:\Users\admin\Desktop\2month-3\2월 3주차\예제\obj\Debug\예제.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\2month-3\2월 3주차\예제\obj\Debug\예제.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\2month-3\2월 3주차\예제\obj\Debug\예제.exe
+C:\Users\admin\Desktop\2month-3\2월 3주차\예제\obj\Debug\예제.pdb

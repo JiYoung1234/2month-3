@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\2month-3\2월 3주차\배열\bin\Debug\배열.exe.config
+C:\Users\admin\Desktop\2month-3\2월 3주차\배열\bin\Debug\배열.exe
+C:\Users\admin\Desktop\2month-3\2월 3주차\배열\bin\Debug\배열.pdb
+C:\Users\admin\Desktop\2month-3\2월 3주차\배열\obj\Debug\배열.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\2month-3\2월 3주차\배열\obj\Debug\배열.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\2month-3\2월 3주차\배열\obj\Debug\배열.exe
+C:\Users\admin\Desktop\2month-3\2월 3주차\배열\obj\Debug\배열.pdb

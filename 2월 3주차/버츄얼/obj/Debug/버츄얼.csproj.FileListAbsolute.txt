@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\2month-3\2월 3주차\버츄얼\bin\Debug\버츄얼.exe.config
+C:\Users\admin\Desktop\2month-3\2월 3주차\버츄얼\bin\Debug\버츄얼.exe
+C:\Users\admin\Desktop\2month-3\2월 3주차\버츄얼\bin\Debug\버츄얼.pdb
+C:\Users\admin\Desktop\2month-3\2월 3주차\버츄얼\obj\Debug\버츄얼.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\2month-3\2월 3주차\버츄얼\obj\Debug\버츄얼.exe
+C:\Users\admin\Desktop\2month-3\2월 3주차\버츄얼\obj\Debug\버츄얼.pdb

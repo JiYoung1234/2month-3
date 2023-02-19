@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\2month-3\2월 3주차\인터페이스\bin\Debug\인터페이스.exe.config
+C:\Users\admin\Desktop\2month-3\2월 3주차\인터페이스\bin\Debug\인터페이스.exe
+C:\Users\admin\Desktop\2month-3\2월 3주차\인터페이스\bin\Debug\인터페이스.pdb
+C:\Users\admin\Desktop\2month-3\2월 3주차\인터페이스\obj\Debug\인터페이스.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\2month-3\2월 3주차\인터페이스\obj\Debug\인터페이스.exe
+C:\Users\admin\Desktop\2month-3\2월 3주차\인터페이스\obj\Debug\인터페이스.pdb
